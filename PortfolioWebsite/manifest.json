@@ -1,0 +1,16 @@
+{
+  "name": "MJ Portfolio v2",
+  "short_name": "MJ Portfolio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061826",
+  "theme_color": "#061826",
+  "description": "Premium personal portfolio for Muhammad Jahanzaib",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
